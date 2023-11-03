@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Author
-Ojeifo David - [Github](https://github.com/Kingvadee) / [Twitter](https://twitter.com/king_dave0496)  
+Ojeifo David - [Github](https://github.com/Kingvadee) / [Twitter](https://twitter.com/king_dave0496)
+Mohamed Laamyry - [Github](https://github.com/laamyry) / [Twitter](https://twitter.com/medlaamyry)
 
 ## License
 Public Domain. No copy write protection. 
